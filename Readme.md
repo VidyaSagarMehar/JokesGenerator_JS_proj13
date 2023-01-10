@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a Full-Stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Random Jokes Generator
@@ -29,8 +29,8 @@ https://randomjokeswebapp.netlify.app/
 
 
 ## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/92782806/211470887-0e8b34d2-ed70-479a-afa9-f2a62c2568ae.png)
 
-![](./Screenshot.png)
 
 
 
